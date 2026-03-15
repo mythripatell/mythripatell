@@ -1,3 +1,4 @@
+<img src="banner.pmg" width="100%" /> 
 # Hi 👋 I'm Mythri Patel
 
 🎓 B.Tech Computer Science (AI & ML) Student  
