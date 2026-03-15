@@ -1,4 +1,4 @@
-<img src="" width="100%" /> 
+<img src="github image.jpeg" width="100%" /> 
 # Hi 👋 I'm Mythri Patel
 
 🎓 B.Tech Computer Science (AI & ML) Student  
